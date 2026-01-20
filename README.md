@@ -1,4 +1,4 @@
-# 📈 Clustering + LSTM Expected Returns + Portfolio Optimization (Markowitz) — Dashboard Streamlit
+# Clustering + LSTM Expected Returns + Portfolio Optimization (Markowitz) — Dashboard Streamlit
 
 Ce projet construit une stratégie de trading quantitative sur l’univers **S&P 500** :
 
@@ -15,6 +15,3 @@ Ce projet construit une stratégie de trading quantitative sur l’univers **S&P
 11. **Export** des artefacts pour le dashboard Streamlit
 
 ---
-
-## ✅ Structure recommandée
-
