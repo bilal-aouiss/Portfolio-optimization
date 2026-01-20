@@ -5,9 +5,7 @@ pandas
 # Data sources
 yfinance
 requests
-lxml
-html5lib
-beautifulsoup4
+
 
 # Indicators
 pandas_ta
@@ -21,8 +19,6 @@ tensorflow
 
 # Portfolio optimization
 PyPortfolioOpt
-cvxpy
-scs
 
 # Viz (pipeline + dashboard)
 matplotlib
@@ -31,7 +27,3 @@ streamlit
 
 # Optional: expose streamlit externally
 pyngrok
-
-# Parquet support
-pyarrow
-fastparquet
